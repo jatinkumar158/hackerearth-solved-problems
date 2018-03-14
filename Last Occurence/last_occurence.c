@@ -1,3 +1,4 @@
+// Author = Jatin Kumar
 #include<stdio.h>
 #define N 1000001
 long long int map[N];
